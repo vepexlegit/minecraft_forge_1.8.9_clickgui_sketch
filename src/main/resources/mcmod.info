@@ -1,0 +1,16 @@
+[
+{
+  "modid": "clickgui",
+  "name": "ClickGui",
+  "description": "Click Gui",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
