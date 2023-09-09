@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "de.vepexlegit.clickgui.mixins",
+  "refmap": "mixins.clickgui.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinMinecraft"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
